@@ -1,2 +1,6 @@
 # Readability-CS50
-Codigo feito para a semana 2 do CS50 utilizando o índice de Coleman-Liau.  O índice Coleman-Liau de uma formula projetada para gerar o nível de escolaridade (EUA) necessário para a compreensão de algum texto. 
+Code made for week 2 of CS50 using the Coleman-Liau index. The Coleman-Liau index is a formula designed to generate the education level (US) necessary to understand a text.
+
+Author: Ronye Vantzing
+
+Libraries: CS50.h, Stdio.h, String.h, Ctype.h
