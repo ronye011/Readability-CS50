@@ -3,4 +3,4 @@ Code made for week 2 of CS50 using the Coleman-Liau index. The Coleman-Liau inde
 
 Author: Ronye Vantzing
 
-Libraries: CS50.h, Stdio.h, String.h, Ctype.h
+Libraries used: CS50.h, Stdio.h, String.h, Ctype.h
